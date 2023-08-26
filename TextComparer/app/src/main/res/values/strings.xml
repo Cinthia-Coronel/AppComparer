@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextComparer</string>
+    <string name="button">Comparar</string>
+    <string name="Text1">Text 1</string>
+    <string name="Text2">Text 2</string>
+</resources>
